@@ -120,7 +120,7 @@ RFBB = 1.07K
 RFBT = 3.32 for 3V3
 5.62 for 5V</text>
 <text x="13.97" y="34.29" size="0.8128" layer="27">LMZ22010 - 20Vin Max</text>
-<text x="21.59" y="3.81" size="1.27" layer="25">J.Hutton
+<text x="16.51" y="2.54" size="1.27" layer="25">J.Hutton
 25/10/14</text>
 <text x="1.27" y="19.05" size="1.27" layer="25">20VIN MAX</text>
 </plain>
